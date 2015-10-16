@@ -1,0 +1,14 @@
+# Fdb version 3
+["latex"] 1444961840 "unicode-math-table.tex" "unicode-math-table.dvi" "unicode-math-table" 1444961850
+  "/etc/texmf/web2c/texmf.cnf" 1400162800 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti7.tfm" 1136768653 1492 86331993fe614793f5e7e755835c31c5 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1392645748 31083 1dfd8bf685ce0009c40532fedf8a7c53 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1392645748 31083 1dfd8bf685ce0009c40532fedf8a7c53 ""
+  "/var/lib/texmf/web2c/pdftex/latex.fmt" 1400162808 722273 e95b29fb7c034c2ce273bcd2c01604c9 ""
+  "unicode-math-table.aux" 1444961143 8 a94a2480d3289e625eea47cd1b285758 ""
+  "unicode-math-table.tex" 1404129764 240042 005c224cc36e7ad3f439437a0a3e739a ""
+  (generated)
+  "unicode-math-table.dvi"
+  "unicode-math-table.log"

@@ -1,0 +1,415 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=latex 2014.5.15)  16 OCT 2015 04:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**unicode-math-table.tex
+(./unicode-math-table.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+! Undefined control sequence.
+l.1 \UnicodeMathSymbol
+                      {"00021}{\mathexclam               }{\mathpunct}{excla...
+
+? 
+! Interruption.
+<to be read again> 
+                   {
+l.1 \UnicodeMathSymbol{
+                       "00021}{\mathexclam               }{\mathpunct}{excla...
+
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \UnicodeMathSymbol{"
+                        00021}{\mathexclam               }{\mathpunct}{excla...
+
+? 
+Missing character: There is no " in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! Undefined control sequence.
+l.1 \UnicodeMathSymbol{"00021}{\mathexclam
+                                                         }{\mathpunct}{excla...
+
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1 ...021}{\mathexclam               }{\mathpunct
+                                                  }{exclamation mark}%
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+! Missing { inserted.
+<to be read again> 
+                   }
+l.1 ...21}{\mathexclam               }{\mathpunct}
+                                                  {exclamation mark}%
+? 
+! Undefined control sequence.
+l.2 \UnicodeMathSymbol
+                      {"00023}{\mathoctothorpe           }{\mathord}{number ...
+
+? 
+! Undefined control sequence.
+l.2 \UnicodeMathSymbol{"00023}{\mathoctothorpe
+                                                         }{\mathord}{number ...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.2 ...0023}{\mathoctothorpe           }{\mathord}
+                                                  {number sign}%
+? 
+! Undefined control sequence.
+l.3 \UnicodeMathSymbol
+                      {"00024}{\mathdollar               }{\mathord}{dollar ...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.3 ...0024}{\mathdollar               }{\mathord}
+                                                  {dollar sign}%
+? 
+! Undefined control sequence.
+l.4 \UnicodeMathSymbol
+                      {"00025}{\mathpercent              }{\mathord}{percent...
+
+? 
+! Undefined control sequence.
+l.4 \UnicodeMathSymbol{"00025}{\mathpercent
+                                                         }{\mathord}{percent...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.4 ...0025}{\mathpercent              }{\mathord}
+                                                  {percent sign}%
+? 
+! Undefined control sequence.
+l.5 \UnicodeMathSymbol
+                      {"00026}{\mathampersand            }{\mathord}{ampersa...
+
+? 
+! Undefined control sequence.
+l.5 \UnicodeMathSymbol{"00026}{\mathampersand
+                                                         }{\mathord}{ampersa...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.5 ...0026}{\mathampersand            }{\mathord}
+                                                  {ampersand}%
+? 
+! Undefined control sequence.
+l.6 \UnicodeMathSymbol
+                      {"00028}{\lparen                   }{\mathopen}{left p...
+
+? 
+! Undefined control sequence.
+l.6 \UnicodeMathSymbol{"00028}{\lparen
+                                                         }{\mathopen}{left p...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.6 ...028}{\lparen                   }{\mathopen}
+                                                  {left parenthesis}%
+? 
+! Undefined control sequence.
+l.7 \UnicodeMathSymbol
+                      {"00029}{\rparen                   }{\mathclose}{right...
+
+? 
+! Undefined control sequence.
+l.7 \UnicodeMathSymbol{"00029}{\rparen
+                                                         }{\mathclose}{right...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.7 ...29}{\rparen                   }{\mathclose}
+                                                  {right parenthesis}%
+? 
+! Undefined control sequence.
+l.8 \UnicodeMathSymbol
+                      {"0002B}{\mathplus                 }{\mathbin}{plus si...
+
+? 
+! Undefined control sequence.
+l.8 \UnicodeMathSymbol{"0002B}{\mathplus
+                                                         }{\mathbin}{plus si...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.8 ...002B}{\mathplus                 }{\mathbin}
+                                                  {plus sign b:}%
+? 
+! Undefined control sequence.
+l.9 \UnicodeMathSymbol
+                      {"0002C}{\mathcomma                }{\mathpunct}{comma}%
+? 
+! Undefined control sequence.
+l.9 \UnicodeMathSymbol{"0002C}{\mathcomma
+                                                         }{\mathpunct}{comma}%
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.9 ...2C}{\mathcomma                }{\mathpunct}
+                                                  {comma}%
+? 
+! Undefined control sequence.
+l.10 \UnicodeMathSymbol
+                       {"0002E}{\mathperiod               }{\mathord}{full s...
+
+? 
+! Undefined control sequence.
+l.10 \UnicodeMathSymbol{"0002E}{\mathperiod
+                                                          }{\mathord}{full s...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.10 ...02E}{\mathperiod               }{\mathord}
+                                                  {full stop, period}%
+? 
+! Undefined control sequence.
+l.11 \UnicodeMathSymbol
+                       {"0002F}{\mathslash                }{\mathord}{solidus}%
+
+? 
+! Undefined control sequence.
+l.11 \UnicodeMathSymbol{"0002F}{\mathslash
+                                                          }{\mathord}{solidus}%
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.11 ...02F}{\mathslash                }{\mathord}
+                                                  {solidus}%
+? 
+! Undefined control sequence.
+l.12 \UnicodeMathSymbol
+                       {"0003A}{\mathcolon                }{\mathpunct}{colon}%
+
+? 
+! Undefined control sequence.
+l.12 \UnicodeMathSymbol{"0003A}{\mathcolon
+                                                          }{\mathpunct}{colon}%
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.12 ...A}{\mathcolon                }{\mathpunct}
+                                                  {colon}%
+? 
+! Undefined control sequence.
+l.13 \UnicodeMathSymbol
+                       {"0003B}{\mathsemicolon            }{\mathpunct}{semi...
+
+? 
+! Undefined control sequence.
+l.13 \UnicodeMathSymbol{"0003B}{\mathsemicolon
+                                                          }{\mathpunct}{semi...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.13 ...B}{\mathsemicolon            }{\mathpunct}
+                                                  {semicolon p:}%
+? 
+! Undefined control sequence.
+l.14 \UnicodeMathSymbol
+                       {"0003C}{\less                     }{\mathrel}{less-t...
+
+? 
+! Undefined control sequence.
+l.14 \UnicodeMathSymbol{"0003C}{\less
+                                                          }{\mathrel}{less-t...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.14 ...03C}{\less                     }{\mathrel}
+                                                  {less-than sign r:}%
+? 
+! Undefined control sequence.
+l.15 \UnicodeMathSymbol
+                       {"0003D}{\equal                    }{\mathrel}{equals...
+
+? 
+! Undefined control sequence.
+l.15 \UnicodeMathSymbol{"0003D}{\equal
+                                                          }{\mathrel}{equals...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.15 ...03D}{\equal                    }{\mathrel}
+                                                  {equals sign r:}%
+? 
+! Undefined control sequence.
+l.16 \UnicodeMathSymbol
+                       {"0003E}{\greater                  }{\mathrel}{greate...
+
+? 
+! Undefined control sequence.
+l.16 \UnicodeMathSymbol{"0003E}{\greater
+                                                          }{\mathrel}{greate...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.16 ...03E}{\greater                  }{\mathrel}
+                                                  {greater-than sign r:}%
+? 
+! Undefined control sequence.
+l.17 \UnicodeMathSymbol
+                       {"0003F}{\mathquestion             }{\mathord}{questi...
+
+? 
+! Undefined control sequence.
+l.17 \UnicodeMathSymbol{"0003F}{\mathquestion
+                                                          }{\mathord}{questi...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.17 ...03F}{\mathquestion             }{\mathord}
+                                                  {question mark}%
+? 
+! Undefined control sequence.
+l.18 \UnicodeMathSymbol
+                       {"00040}{\mathatsign               }{\mathord}{commer...
+
+? 
+! Undefined control sequence.
+l.18 \UnicodeMathSymbol{"00040}{\mathatsign
+                                                          }{\mathord}{commer...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.18 ...040}{\mathatsign               }{\mathord}
+                                                  {commercial at}%
+? 
+! Undefined control sequence.
+l.19 \UnicodeMathSymbol
+                       {"0005B}{\lbrack                   }{\mathopen}{left ...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.19 ...5B}{\lbrack                   }{\mathopen}
+                                                  {left square bracket}%
+? 
+! Undefined control sequence.
+l.20 \UnicodeMathSymbol
+                       {"0005C}{\backslash                }{\mathord}{revers...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.20 ...05C}{\backslash                }{\mathord}
+                                                  {reverse solidus}%
+? 
+! Undefined control sequence.
+l.21 \UnicodeMathSymbol
+                       {"0005D}{\rbrack                   }{\mathclose}{righ...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.21 ...D}{\rbrack                   }{\mathclose}
+                                                  {right square bracket}%
+? 
+! Undefined control sequence.
+l.22 \UnicodeMathSymbol
+                       {"0007B}{\lbrace                   }{\mathopen}{left ...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.22 ...7B}{\lbrace                   }{\mathopen}
+                                                  {left curly bracket}%
+? 
+! Undefined control sequence.
+l.23 \UnicodeMathSymbol
+                       {"0007C}{\vert                     }{\mathfence}{vert...
+
+? 
+! Undefined control sequence.
+l.23 ...7C}{\vert                     }{\mathfence
+                                                  }{vertical bar}%
+? 
+! Undefined control sequence.
+l.24 \UnicodeMathSymbol
+                       {"0007D}{\rbrace                   }{\mathclose}{righ...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.24 ...D}{\rbrace                   }{\mathclose}
+                                                  {right curly bracket}%
+? 
+! Undefined control sequence.
+l.25 \UnicodeMathSymbol
+                       {"000A3}{\mathsterling             }{\mathord}{pound ...
+
+? 
+! Missing { inserted.
+<to be read again> 
+                   }
+l.25 ...0A3}{\mathsterling             }{\mathord}
+                                                  {pound sign}%
+? 
+! Emergency stop.
+<to be read again> 
+                   }
+l.25 ...0A3}{\mathsterling             }{\mathord}
+                                                  {pound sign}%
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 12 strings out of 495029
+ 259 string characters out of 6181523
+ 47941 words of memory out of 5000000
+ 3320 multiletter control sequences out of 15000+600000
+ 4684 words of font info for 17 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 18i,26n,15p,126b,129s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

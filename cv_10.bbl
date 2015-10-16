@@ -1,0 +1,1286 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \sortlist{entry}{}
+    \entry{knuthwebsite}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{9}
+      \field{labeltitle}{Knuth: Computers and Typesetting}
+      \field{title}{Knuth: Computers and Typesetting}
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/%5C~%7B%7Duno/abcde.html
+      \endverb
+    \endentry
+    \entry{onlyonepaper}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \strng{fullhash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Drinking beer and doing nothing}}
+      \field{journaltitle}{Fox}
+      \field{number}{1240}
+      \field{title}{{Drinking beer and doing nothing}}
+      \field{volume}{2323}
+      \field{year}{2016}
+      \field{pages}{891241\bibrangedash 9125521}
+      \verb{doi}
+      \verb http://www.simpsons.com
+      \endverb
+    \endentry
+    \entry{mySecondBook}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Acapulco, Mexico}%
+      }
+      \list{publisher}{1}{%
+        {Github}%
+      }
+      \strng{namehash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \strng{fullhash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \field{sortinit}{1}
+      \field{labeltitle}{Wroted this book all by myself.}
+      \field{title}{Wroted this book all by myself.}
+      \field{year}{1999}
+    \endentry
+    \entry{latexcompanion}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{fullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \field{sortinit}{1}
+      \field{labeltitle}{The \LaTeX{} Companion}
+      \field{title}{The \LaTeX{} Companion}
+      \field{year}{1993}
+    \endentry
+    \entry{einstein}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{1}
+      \field{labeltitle}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{891\bibrangedash 921}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{knuthwebsite}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{9}
+      \field{labeltitle}{Knuth: Computers and Typesetting}
+      \field{title}{Knuth: Computers and Typesetting}
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/%5C~%7B%7Duno/abcde.html
+      \endverb
+    \endentry
+    \entry{onlyonepaper}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \strng{fullhash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Drinking beer and doing nothing}}
+      \field{journaltitle}{Fox}
+      \field{number}{1240}
+      \field{title}{{Drinking beer and doing nothing}}
+      \field{volume}{2323}
+      \field{year}{2016}
+      \field{pages}{891241\bibrangedash 9125521}
+      \verb{doi}
+      \verb http://www.simpsons.com
+      \endverb
+    \endentry
+    \entry{mySecondBook}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Acapulco, Mexico}%
+      }
+      \list{publisher}{1}{%
+        {Github}%
+      }
+      \strng{namehash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \strng{fullhash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \field{sortinit}{1}
+      \field{labeltitle}{Wroted this book all by myself.}
+      \field{title}{Wroted this book all by myself.}
+      \field{year}{1999}
+    \endentry
+    \entry{latexcompanion}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{fullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \field{sortinit}{1}
+      \field{labeltitle}{The \LaTeX{} Companion}
+      \field{title}{The \LaTeX{} Companion}
+      \field{year}{1993}
+    \endentry
+    \entry{einstein}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{1}
+      \field{labeltitle}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{891\bibrangedash 921}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{2}
+  \sortlist{entry}{}
+    \entry{knuthwebsite}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{9}
+      \field{labeltitle}{Knuth: Computers and Typesetting}
+      \field{title}{Knuth: Computers and Typesetting}
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/%5C~%7B%7Duno/abcde.html
+      \endverb
+    \endentry
+    \entry{onlyonepaper}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \strng{fullhash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Drinking beer and doing nothing}}
+      \field{journaltitle}{Fox}
+      \field{number}{1240}
+      \field{title}{{Drinking beer and doing nothing}}
+      \field{volume}{2323}
+      \field{year}{2016}
+      \field{pages}{891241\bibrangedash 9125521}
+      \verb{doi}
+      \verb http://www.simpsons.com
+      \endverb
+    \endentry
+    \entry{mySecondBook}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Acapulco, Mexico}%
+      }
+      \list{publisher}{1}{%
+        {Github}%
+      }
+      \strng{namehash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \strng{fullhash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \field{sortinit}{1}
+      \field{labeltitle}{Wroted this book all by myself.}
+      \field{title}{Wroted this book all by myself.}
+      \field{year}{1999}
+    \endentry
+    \entry{latexcompanion}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{fullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \field{sortinit}{1}
+      \field{labeltitle}{The \LaTeX{} Companion}
+      \field{title}{The \LaTeX{} Companion}
+      \field{year}{1993}
+    \endentry
+    \entry{einstein}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{1}
+      \field{labeltitle}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{891\bibrangedash 921}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{knuthwebsite}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{9}
+      \field{labeltitle}{Knuth: Computers and Typesetting}
+      \field{title}{Knuth: Computers and Typesetting}
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/%5C~%7B%7Duno/abcde.html
+      \endverb
+    \endentry
+    \entry{onlyonepaper}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \strng{fullhash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Drinking beer and doing nothing}}
+      \field{journaltitle}{Fox}
+      \field{number}{1240}
+      \field{title}{{Drinking beer and doing nothing}}
+      \field{volume}{2323}
+      \field{year}{2016}
+      \field{pages}{891241\bibrangedash 9125521}
+      \verb{doi}
+      \verb http://www.simpsons.com
+      \endverb
+    \endentry
+    \entry{mySecondBook}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Acapulco, Mexico}%
+      }
+      \list{publisher}{1}{%
+        {Github}%
+      }
+      \strng{namehash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \strng{fullhash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \field{sortinit}{1}
+      \field{labeltitle}{Wroted this book all by myself.}
+      \field{title}{Wroted this book all by myself.}
+      \field{year}{1999}
+    \endentry
+    \entry{latexcompanion}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{fullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \field{sortinit}{1}
+      \field{labeltitle}{The \LaTeX{} Companion}
+      \field{title}{The \LaTeX{} Companion}
+      \field{year}{1993}
+    \endentry
+    \entry{einstein}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{1}
+      \field{labeltitle}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{891\bibrangedash 921}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{3}
+  \sortlist{entry}{}
+    \entry{knuthwebsite}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{9}
+      \field{labeltitle}{Knuth: Computers and Typesetting}
+      \field{title}{Knuth: Computers and Typesetting}
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/%5C~%7B%7Duno/abcde.html
+      \endverb
+    \endentry
+    \entry{onlyonepaper}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \strng{fullhash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Drinking beer and doing nothing}}
+      \field{journaltitle}{Fox}
+      \field{number}{1240}
+      \field{title}{{Drinking beer and doing nothing}}
+      \field{volume}{2323}
+      \field{year}{2016}
+      \field{pages}{891241\bibrangedash 9125521}
+      \verb{doi}
+      \verb http://www.simpsons.com
+      \endverb
+    \endentry
+    \entry{mySecondBook}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Acapulco, Mexico}%
+      }
+      \list{publisher}{1}{%
+        {Github}%
+      }
+      \strng{namehash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \strng{fullhash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \field{sortinit}{1}
+      \field{labeltitle}{Wroted this book all by myself.}
+      \field{title}{Wroted this book all by myself.}
+      \field{year}{1999}
+    \endentry
+    \entry{latexcompanion}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{fullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \field{sortinit}{1}
+      \field{labeltitle}{The \LaTeX{} Companion}
+      \field{title}{The \LaTeX{} Companion}
+      \field{year}{1993}
+    \endentry
+    \entry{einstein}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{1}
+      \field{labeltitle}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{891\bibrangedash 921}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{knuthwebsite}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{9}
+      \field{labeltitle}{Knuth: Computers and Typesetting}
+      \field{title}{Knuth: Computers and Typesetting}
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/%5C~%7B%7Duno/abcde.html
+      \endverb
+    \endentry
+    \entry{onlyonepaper}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \strng{fullhash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Drinking beer and doing nothing}}
+      \field{journaltitle}{Fox}
+      \field{number}{1240}
+      \field{title}{{Drinking beer and doing nothing}}
+      \field{volume}{2323}
+      \field{year}{2016}
+      \field{pages}{891241\bibrangedash 9125521}
+      \verb{doi}
+      \verb http://www.simpsons.com
+      \endverb
+    \endentry
+    \entry{mySecondBook}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Acapulco, Mexico}%
+      }
+      \list{publisher}{1}{%
+        {Github}%
+      }
+      \strng{namehash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \strng{fullhash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \field{sortinit}{1}
+      \field{labeltitle}{Wroted this book all by myself.}
+      \field{title}{Wroted this book all by myself.}
+      \field{year}{1999}
+    \endentry
+    \entry{latexcompanion}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{fullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \field{sortinit}{1}
+      \field{labeltitle}{The \LaTeX{} Companion}
+      \field{title}{The \LaTeX{} Companion}
+      \field{year}{1993}
+    \endentry
+    \entry{einstein}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{1}
+      \field{labeltitle}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{891\bibrangedash 921}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{4}
+  \sortlist{entry}{}
+    \entry{knuthwebsite}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{9}
+      \field{labeltitle}{Knuth: Computers and Typesetting}
+      \field{title}{Knuth: Computers and Typesetting}
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/%5C~%7B%7Duno/abcde.html
+      \endverb
+    \endentry
+    \entry{onlyonepaper}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \strng{fullhash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Drinking beer and doing nothing}}
+      \field{journaltitle}{Fox}
+      \field{number}{1240}
+      \field{title}{{Drinking beer and doing nothing}}
+      \field{volume}{2323}
+      \field{year}{2016}
+      \field{pages}{891241\bibrangedash 9125521}
+      \verb{doi}
+      \verb http://www.simpsons.com
+      \endverb
+    \endentry
+    \entry{mySecondBook}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Acapulco, Mexico}%
+      }
+      \list{publisher}{1}{%
+        {Github}%
+      }
+      \strng{namehash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \strng{fullhash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \field{sortinit}{1}
+      \field{labeltitle}{Wroted this book all by myself.}
+      \field{title}{Wroted this book all by myself.}
+      \field{year}{1999}
+    \endentry
+    \entry{latexcompanion}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{fullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \field{sortinit}{1}
+      \field{labeltitle}{The \LaTeX{} Companion}
+      \field{title}{The \LaTeX{} Companion}
+      \field{year}{1993}
+    \endentry
+    \entry{einstein}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{1}
+      \field{labeltitle}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{891\bibrangedash 921}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{knuthwebsite}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{9}
+      \field{labeltitle}{Knuth: Computers and Typesetting}
+      \field{title}{Knuth: Computers and Typesetting}
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/%5C~%7B%7Duno/abcde.html
+      \endverb
+    \endentry
+    \entry{onlyonepaper}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \strng{fullhash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Drinking beer and doing nothing}}
+      \field{journaltitle}{Fox}
+      \field{number}{1240}
+      \field{title}{{Drinking beer and doing nothing}}
+      \field{volume}{2323}
+      \field{year}{2016}
+      \field{pages}{891241\bibrangedash 9125521}
+      \verb{doi}
+      \verb http://www.simpsons.com
+      \endverb
+    \endentry
+    \entry{mySecondBook}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Acapulco, Mexico}%
+      }
+      \list{publisher}{1}{%
+        {Github}%
+      }
+      \strng{namehash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \strng{fullhash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \field{sortinit}{1}
+      \field{labeltitle}{Wroted this book all by myself.}
+      \field{title}{Wroted this book all by myself.}
+      \field{year}{1999}
+    \endentry
+    \entry{latexcompanion}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{fullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \field{sortinit}{1}
+      \field{labeltitle}{The \LaTeX{} Companion}
+      \field{title}{The \LaTeX{} Companion}
+      \field{year}{1993}
+    \endentry
+    \entry{einstein}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{1}
+      \field{labeltitle}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{891\bibrangedash 921}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{5}
+  \sortlist{entry}{}
+    \entry{knuthwebsite}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{9}
+      \field{labeltitle}{Knuth: Computers and Typesetting}
+      \field{title}{Knuth: Computers and Typesetting}
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/%5C~%7B%7Duno/abcde.html
+      \endverb
+    \endentry
+    \entry{onlyonepaper}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \strng{fullhash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Drinking beer and doing nothing}}
+      \field{journaltitle}{Fox}
+      \field{number}{1240}
+      \field{title}{{Drinking beer and doing nothing}}
+      \field{volume}{2323}
+      \field{year}{2016}
+      \field{pages}{891241\bibrangedash 9125521}
+      \verb{doi}
+      \verb http://www.simpsons.com
+      \endverb
+    \endentry
+    \entry{mySecondBook}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Acapulco, Mexico}%
+      }
+      \list{publisher}{1}{%
+        {Github}%
+      }
+      \strng{namehash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \strng{fullhash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \field{sortinit}{1}
+      \field{labeltitle}{Wroted this book all by myself.}
+      \field{title}{Wroted this book all by myself.}
+      \field{year}{1999}
+    \endentry
+    \entry{latexcompanion}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{fullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \field{sortinit}{1}
+      \field{labeltitle}{The \LaTeX{} Companion}
+      \field{title}{The \LaTeX{} Companion}
+      \field{year}{1993}
+    \endentry
+    \entry{einstein}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{1}
+      \field{labeltitle}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{891\bibrangedash 921}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{knuthwebsite}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{9}
+      \field{labeltitle}{Knuth: Computers and Typesetting}
+      \field{title}{Knuth: Computers and Typesetting}
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/%5C~%7B%7Duno/abcde.html
+      \endverb
+    \endentry
+    \entry{onlyonepaper}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \strng{fullhash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Drinking beer and doing nothing}}
+      \field{journaltitle}{Fox}
+      \field{number}{1240}
+      \field{title}{{Drinking beer and doing nothing}}
+      \field{volume}{2323}
+      \field{year}{2016}
+      \field{pages}{891241\bibrangedash 9125521}
+      \verb{doi}
+      \verb http://www.simpsons.com
+      \endverb
+    \endentry
+    \entry{mySecondBook}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Acapulco, Mexico}%
+      }
+      \list{publisher}{1}{%
+        {Github}%
+      }
+      \strng{namehash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \strng{fullhash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \field{sortinit}{1}
+      \field{labeltitle}{Wroted this book all by myself.}
+      \field{title}{Wroted this book all by myself.}
+      \field{year}{1999}
+    \endentry
+    \entry{latexcompanion}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{fullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \field{sortinit}{1}
+      \field{labeltitle}{The \LaTeX{} Companion}
+      \field{title}{The \LaTeX{} Companion}
+      \field{year}{1993}
+    \endentry
+    \entry{einstein}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{1}
+      \field{labeltitle}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{891\bibrangedash 921}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{6}
+  \sortlist{entry}{}
+    \entry{knuthwebsite}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{9}
+      \field{labeltitle}{Knuth: Computers and Typesetting}
+      \field{title}{Knuth: Computers and Typesetting}
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/%5C~%7B%7Duno/abcde.html
+      \endverb
+    \endentry
+    \entry{onlyonepaper}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \strng{fullhash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Drinking beer and doing nothing}}
+      \field{journaltitle}{Fox}
+      \field{number}{1240}
+      \field{title}{{Drinking beer and doing nothing}}
+      \field{volume}{2323}
+      \field{year}{2016}
+      \field{pages}{891241\bibrangedash 9125521}
+      \verb{doi}
+      \verb http://www.simpsons.com
+      \endverb
+    \endentry
+    \entry{mySecondBook}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Acapulco, Mexico}%
+      }
+      \list{publisher}{1}{%
+        {Github}%
+      }
+      \strng{namehash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \strng{fullhash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \field{sortinit}{1}
+      \field{labeltitle}{Wroted this book all by myself.}
+      \field{title}{Wroted this book all by myself.}
+      \field{year}{1999}
+    \endentry
+    \entry{latexcompanion}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{fullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \field{sortinit}{1}
+      \field{labeltitle}{The \LaTeX{} Companion}
+      \field{title}{The \LaTeX{} Companion}
+      \field{year}{1993}
+    \endentry
+    \entry{einstein}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{1}
+      \field{labeltitle}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{891\bibrangedash 921}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+    \endentry
+  \endsortlist
+  \sortlist{entry}{ydnt}
+    \entry{knuthwebsite}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd533466eb3313074d496394d319407}{Knuth}{K\bibinitperiod}{Donald}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1dd533466eb3313074d496394d319407}
+      \strng{fullhash}{1dd533466eb3313074d496394d319407}
+      \field{sortinit}{9}
+      \field{labeltitle}{Knuth: Computers and Typesetting}
+      \field{title}{Knuth: Computers and Typesetting}
+      \verb{url}
+      \verb http://www-cs-faculty.stanford.edu/%5C~%7B%7Duno/abcde.html
+      \endverb
+    \endentry
+    \entry{onlyonepaper}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8ba4b68227a7fe39c16ff8e82ab95b5a}{Simpson}{S\bibinitperiod}{Home}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \strng{fullhash}{8ba4b68227a7fe39c16ff8e82ab95b5a}
+      \field{sortinit}{2}
+      \field{labeltitle}{{Drinking beer and doing nothing}}
+      \field{journaltitle}{Fox}
+      \field{number}{1240}
+      \field{title}{{Drinking beer and doing nothing}}
+      \field{volume}{2323}
+      \field{year}{2016}
+      \field{pages}{891241\bibrangedash 9125521}
+      \verb{doi}
+      \verb http://www.simpsons.com
+      \endverb
+    \endentry
+    \entry{mySecondBook}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=841ac6a7bffbf15448adc2a5c4b62897}{Valdez}{V\bibinitperiod}{Don\bibnamedelima Ramon}{D\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Acapulco, Mexico}%
+      }
+      \list{publisher}{1}{%
+        {Github}%
+      }
+      \strng{namehash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \strng{fullhash}{841ac6a7bffbf15448adc2a5c4b62897}
+      \field{sortinit}{1}
+      \field{labeltitle}{Wroted this book all by myself.}
+      \field{title}{Wroted this book all by myself.}
+      \field{year}{1999}
+    \endentry
+    \entry{latexcompanion}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=0743efb276e9219ee664a9b3dbd60619}{Goossens}{G\bibinitperiod}{Michel}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9355edd511e3f6fdd880ee98722a53fb}{Mittelbach}{M\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=e341c89f7bb5be4f5a050618c0b63942}{Samarin}{S\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Reading, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley}%
+      }
+      \strng{namehash}{369a4e878eb8157d94588ee72e0b486b}
+      \strng{fullhash}{369a4e878eb8157d94588ee72e0b486b}
+      \field{sortinit}{1}
+      \field{labeltitle}{The \LaTeX{} Companion}
+      \field{title}{The \LaTeX{} Companion}
+      \field{year}{1993}
+    \endentry
+    \entry{einstein}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=3ebf53e52a3ce84f0ffb8553200a6a63}{Einstein}{E\bibinitperiod}{Albert}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \field{sortinit}{1}
+      \field{labeltitle}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{journaltitle}{Annalen der Physik}
+      \field{number}{10}
+      \field{title}{{Zur Elektrodynamik bewegter Körper}. ({German}) [{On} the electrodynamics of moving bodies]}
+      \field{volume}{322}
+      \field{year}{1905}
+      \field{pages}{891\bibrangedash 921}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1002/andp.19053221004
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
